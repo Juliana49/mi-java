@@ -4,8 +4,10 @@ public class holaMundo{
      int a=10;
      int b=70;
      int suma = a+b;
+     int multiplicacion = a*b;
      system. out.println ("hola,"+ "nombre"+ "!");
      system.out.println ("la suma es,"+ a + "+" + b + "es:"+ suma);
+     system.ou.println("la multiplicacion es:" multiplicacion);
 
 
     {
