@@ -1,8 +1,8 @@
 public class holaMundo{
     public static void main (String[]args) {
      String nombre = "dennisse";
-     int a=5;
-     int b=3;
+     int a=70;
+     int b=90;
      int suma = a+b;
      system. out.println ("hola,"+ "nombre"+ "!");
      system.out.println ("la suma es,"+ a + "+" + b + "es:"+ suma);
