@@ -1,13 +1,12 @@
 public class holaMundo{
-    public static void main (String[]args) {
+    public static void main (String[]args) {   
      String nombre = "dennisse";
-     int a=10;
-     int b=70;
+     int a=5;
+     int b=7;
      int suma = a+b;
-     int multiplicacion = a*b;
-     system. out.println ("hola,"+ "nombre"+ "!");
+      system. out.println ("hola,"+ "nombre"+ "!");
      system.out.println ("la suma es,"+ a + "+" + b + "es:"+ suma);
-     system.ou.println("la multiplicacion es:" multiplicacion);
+
 
 
     {
