@@ -8,6 +8,7 @@ public class holaMundo{
       system. out.println ("hola,"+ "nombre"+ "!");
      system.out.println ("la suma es,"+ a + "+" + b + "es:"+ suma);
      system.out.printl("La multiplicación es: " + a + " * " + b + " = " + multiplicacion);
+     System.out.println("Nombre completo: Juliana Figueroa, Número de carnet: 2025-2900U");
      
 
 
