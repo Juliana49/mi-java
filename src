@@ -4,9 +4,11 @@ public class holaMundo{
      int a=90;
      int b=89;
      int suma = a+b;
+     int multiplicacion= a*b;
       system. out.println ("hola,"+ "nombre"+ "!");
      system.out.println ("la suma es,"+ a + "+" + b + "es:"+ suma);
-
+     system.out.printl("La multiplicación es: " + a + " * " + b + " = " + multiplicacion);
+     
 
 
     {
